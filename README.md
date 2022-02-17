@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Great to see you here!  👋  Hadasa schweitzer
+
+
+### I'm a computer science student, full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 
 <!--
 **hadas100/hadas100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📖 I’m currently studying computer science at the Open University
+- 📝 I am currently writing apps in React and Node.js ✍️🖊️!
+- ⚡ Fun facts: I love to be in the garden and build a house
+- 📫 How to reach me hadasa.schweitzer@gmail.com
