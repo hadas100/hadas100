@@ -1,4 +1,4 @@
-### Hi, Great to see you here!  👋  Hadasa schweitzer
+### Hi, Great to see you here!  👋 I'm Hadasa schweitzer
 
 
 ### I'm a computer science student, full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
