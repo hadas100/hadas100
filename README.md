@@ -1,7 +1,7 @@
 ### Hi, Great to see you here!  👋 I'm Hadasa schweitzer
 
 
-### I'm a computer science student, full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+### I'm a computer science student, and full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 
 <!--
 **hadas100/hadas100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
